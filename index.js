@@ -35,7 +35,7 @@ inquirer
     {
       type: "input",
       message:
-        "What color would you like the letters to be? (must be either a keyword color or hexadecimal number)",
+        "What color would you like the shape to be? (must be either a keyword color or hexadecimal number)",
       name: "shapeColor",
     },
   ])
