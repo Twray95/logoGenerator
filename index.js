@@ -77,6 +77,6 @@ inquirer
   .then((logo) => {
     const SVG = logo.generateLogo();
     fs.writeFile("logo.svg", SVG, (err) =>
-      err ? console.log(err) : console.log("success")
+      err ? console.log(err) : console.log("Generated logo.svg")
     );
   });
