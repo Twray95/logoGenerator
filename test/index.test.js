@@ -1,4 +1,3 @@
-const logo = require("../index");
 const {
   Triangle: Triangle,
   Square: Square,

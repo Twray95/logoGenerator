@@ -71,6 +71,8 @@ inquirer
           );
           //   console.log(square);
           return square;
+        default:
+          return;
       }
     }
   })
