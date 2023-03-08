@@ -1,0 +1,4 @@
+<svg width="300" height="200">
+    <circle cx="150" cy="100" r="90" fill="blue" />
+    <text fill="red" font-size="50" font-family="Verdana" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">ddd</text>
+  </svg>
